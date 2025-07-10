@@ -5,7 +5,9 @@ A fun and interactive Python project that randomly generates fake and humorous n
 ---
 ## 📸 Screenshot
 
-*(Optional: Add an image of the output here)*
+![Fake News Headline Generator Demo](screenshot.png)
+
+
 
 ---
 
